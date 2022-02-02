@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?14iskc');
+  src:  url('fonts/icomoon.eot?14iskc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?14iskc') format('truetype'),
+    url('fonts/icomoon.woff?14iskc') format('woff'),
+    url('fonts/icomoon.svg?14iskc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-up:before {
+  content: "\e904";
+}
+.icon-crculo-para-cima:before {
+  content: "\e903";
+}
+.icon-para-cima:before {
+  content: "\e903";
+}
+.icon-crculo-no-topo:before {
+  content: "\e903";
+}
+.icon-seta:before {
+  content: "\e903";
+}
+.icon-localizao:before {
+  content: "\e900";
+}
+.icon-marcador-de-mapa:before {
+  content: "\e900";
+}
+.icon-alfinete:before {
+  content: "\e900";
+}
+.icon-menu:before {
+  content: "\e901";
+}
+.icon-list:before {
+  content: "\e901";
+}
+.icon-options:before {
+  content: "\e901";
+}
+.icon-lines:before {
+  content: "\e901";
+}
+.icon-hamburger:before {
+  content: "\e901";
+}
+.icon-facebook:before {
+  content: "\e902";
+}
+.icon-brand:before {
+  content: "\e902";
+}
+.icon-social:before {
+  content: "\e902";
+}
+.icon-cancel_close_delete_exit_logout_icon1:before {
+  content: "\e908";
+}
+.icon-telephone_icon1:before {
+  content: "\e90c";
+}
+.icon-email_envelope_letter_mail_message_icon1:before {
+  content: "\e90d";
+}
+.icon-whatsapp_icon1:before {
+  content: "\e90e";
+}
+.icon-brand_logo_network_social_youtube_icon1:before {
+  content: "\e90f";
+}
+.icon-ig_instagram_photo_icon1:before {
+  content: "\e910";
+}
+.icon-cake_crea_cream_messes_topping_icon1:before {
+  content: "\e911";
+}
+.icon-coffee_shop_muffin_cake_food_icon1:before {
+  content: "\e912";
+}
+.icon-cake_cream_cupcake_dessert_food_icon1:before {
+  content: "\e913";
+}
