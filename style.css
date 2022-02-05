@@ -390,12 +390,13 @@ nav.show div.icon-cancel_close_delete_exit_logout_icon1 {
 }
 
 .card .title {
-  font-size: 1.5rem;
+  font-size: 2.9rem;
   margin-bottom: 0.75rem;
+  margin-top: 1.5rem;
 }
 
 .img-cards { 
-  width: 20%;
+  width: 50%;
 }
 
 .li-cards{
@@ -492,6 +493,10 @@ footer .social a:hover {
 
 .strong-footer {
   color: #ffffff;
+}
+
+.img-footer{
+  width: 75px;
 }
 
 /* Back to top */
