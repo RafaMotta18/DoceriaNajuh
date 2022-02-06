@@ -368,6 +368,11 @@ nav.show div.icon-cancel_close_delete_exit_logout_icon1 {
   text-align: center;
 }
 
+.card:hover{
+  cursor: pointer;
+  background-color: #e9e7e8;
+}
+
 .card i {
   display: block;
   margin-bottom: 1.5rem;
